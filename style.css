@@ -1,0 +1,29 @@
+h1{
+    font-family: Forte;
+    color: white;
+    background: blue;
+    text-align: center;
+}
+
+div{
+    height: 300px;
+    width: 200px;
+    background: url("new.jpg");
+    background-size: cover;
+}
+div.one{
+    background-color: blanchedalmond;
+    height: 200px;
+}
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+    background: yellow;
+    text-align: justify;
+    font-size: 18px;
+}
+
+p.two{
+    background: red;
+    color: green;
+}
